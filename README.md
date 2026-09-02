@@ -23,49 +23,29 @@ Each topic contains:
 
 ## 🗺️ Python Learning Roadmap
 
-```text
-🐍 Introduction to Programming Python
-                ↓
-📌 Python Fundamentals
-                ↓
-🔀 Control Flow and Loops
-                ↓
-🔤 Strings
-                ↓
-🧩 Functions and Modules
-                ↓
-🗂️ Data Structures in Python
-                ↓
-🏗️ Object-Oriented Programming
-                ↓
-⚡ Advanced Python Concepts
-                ↓
-📁 File I/O & Related Modules
-                ↓
-📦 External Libraries
-
-## 🗺️ Course Content
-
-**Important:** Don't put the outer Markdown code fence around this whole section when you're typing it. The README should contain the ` ```text ` and closing ` ``` ` exactly as shown.
-
+     Introduction to Programming Python
+                 ↓
+        Python Fundamentals
+                 ↓
+       Control Flow and Loops
+                 ↓
+              Strings
+                 ↓
+        Functions and Modules
+                 ↓
+       Data Structures in Python
+                 ↓
+      Object-Oriented Programming
+                 ↓
+       Advanced Python Concepts
+                 ↓
+      File I/O & Related Modules
+                 ↓
+        External Libraries
 ---
 
-## 📚 Course Contents
+# 📚 Course Contents
 
-| # | Course Topic | 📓 Notebook | 📝 Practice Set |
-|---|---|---|---|
-| 01 | 🐍 [Introduction to Programming Python](./01.%20Introduction%20to%20Programming%20python.ipynb) | [Open Notebook](./01.%20Introduction%20to%20Programming%20python.ipynb) | — |
-| 02 | 📌 [Python Fundamentals](./02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb) | [Open Notebook](./02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb) | [Answers](./02.%20Python%20Fundamentals/Python%20Fundamentals%20Practice%20Set%20answers/) |
-| 03 | 🔀 [Control Flow and Loops](./03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb) | [Open Notebook](./03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb) | [Answers](./03.%20Control%20Flow%20and%20Loops/Control%20Flow%20and%20Loops%20Practice%20set%20answers/) |
-| 04 | 🔤 [Strings](./04.%20Strings/04.%20Strings.ipynb) | [Open Notebook](./04.%20Strings/04.%20Strings.ipynb) | [Answers](./04.%20Strings/Strings%20Practice%20Set%20answers/) |
-| 05 | 🧩 [Functions and Modules](./05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb) | [Open Notebook](./05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb) | [Answers](./05.%20Functions%20and%20Modules/Functions%20and%20Modules%20Practice%20set%20Answers/) |
-| 06 | 🗂️ [Data Structures in Python](./06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb) | [Open Notebook](./06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb) | [Answers](./06.%20Data%20Structures%20in%20Python/Data%20Structures%20in%20Python%20Practice%20set%20answers/) |
-| 07 | 🏗️ [Object-Oriented Programming in Python](./07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb) | [Open Notebook](./07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb) | [Answers](./07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/OOP%20Practice%20set%20Answers/) |
-| 08 | ⚡ [Advanced Python Concepts](./08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb) | [Open Notebook](./08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb) | [Answers](./08.%20Advanced%20Python%20Concepts/Advanced%20Python%20Concepts%20Practice%20Set%20Answers/) |
-| 09 | 📁 [File I/O - Working with Files & Related Modules](./09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/09.File%20IO%20-%20Working%20with%20Files%20%26%20Related%20Modules%20.ipynb) | [Open Notebook](./09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/09.File%20IO%20-%20Working%20with%20Files%20%26%20Related%20Modules%20.ipynb) | [Answers](./09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/File%20IO%20%20-%20Working%20with%20Files%20%26%20Related%20Modules%20Practice%20Set%20answers/) |
-| 10 | 📦 [Working with External Libraries](./10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb) | [Open Notebook](./10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb) | — |
-
-# 📖 Course Modules
 
 ## 1️⃣ Introduction to Programming Python
 
@@ -74,7 +54,8 @@ Python programming language.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Introduction to Programming Python Notebook](./01.%20Introduction%20to%20Programming%20python.ipynb)
+👉 [Open Introduction to Programming Python Notebook](http://localhost:8888/notebooks/Python/01.%20Introduction%20to%20programming%20Python/001.%20Introduction%20to%20Programming%20python.ipynb)
+
 
 ## 2️⃣ Python Fundamentals
 
@@ -92,11 +73,11 @@ This module covers the fundamental building blocks of Python programming.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Python Fundamentals Notebook](./02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb)
+👉 [Open Python Fundamentals Notebook](http://localhost:8888/notebooks/Python/02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Python Fundamentals Practice Set](./02.%20Python%20Fundamentals/Python%20Fundamentals%20Practice%20Set%20answers/)
+👉 [Open Python Fundamentals Practice Set Answers ](http://localhost:8888/tree/Python/02.%20Python%20Fundamentals/Python%20Fundamentals%20Practice%20Set%20answers)
 
 ## 3️⃣ Control Flow and Loops
 
@@ -116,11 +97,12 @@ Learn how to control the flow of execution in Python programs.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Control Flow and Loops Notebook](./03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb)
+👉 [Open Control Flow and Loops Notebook](http://localhost:8888/notebooks/Python/03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Control Flow and Loops Practice Set](./03.%20Control%20Flow%20and%20Loops/Control%20Flow%20and%20Loops%20Practice%20set%20answers/)
+👉 [Open Control Flow and Loops Practice Set](http://localhost:8888/tree/Python/03.%20Control%20Flow%20and%20Loops/Control%20Flow%20and%20Loops%20Practice%20set%20answers)
+
 
 ## 4️⃣ Strings
 
@@ -139,11 +121,11 @@ different string operations in Python.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Strings Notebook](./04.%20Strings/04.%20Strings.ipynb)
+👉 [Open Strings Notebook](http://localhost:8888/notebooks/Python/04.%20Strings/04.%20Strings.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Strings Practice Set](./04.%20Strings/Strings%20Practice%20Set%20answers/)
+👉 [Open Strings Practice Set](http://localhost:8888/tree/Python/04.%20Strings/Strings%20Practice%20Set%20answers)
 
 ## 5️⃣ Functions and Modules
 
@@ -164,11 +146,11 @@ using functions and modules.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Functions and Modules Notebook](./05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb)
+👉 [Open Functions and Modules Notebook](http://localhost:8888/notebooks/Python/05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Functions and Modules Practice Set](./05.%20Functions%20and%20Modules/Functions%20and%20Modules%20Practice%20set%20Answers/)
+👉 [Open Functions and Modules Practice Set](http://localhost:8888/tree/Python/05.%20Functions%20and%20Modules/Functions%20and%20Modules%20Practice%20set%20Answers)
 
 ## 6️⃣ Data Structures in Python
 
@@ -188,11 +170,11 @@ data using Python's built-in data structures.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Data Structures Notebook](./06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb)
+👉 [Open Data Structures Notebook](http://localhost:8888/notebooks/Python/06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Data Structures Practice Set](./06.%20Data%20Structures%20in%20Python/Data%20Structures%20in%20Python%20Practice%20set%20answers/)
+👉 [Open Data Structures Practice Set](http://localhost:8888/tree/Python/06.%20Data%20Structures%20in%20Python/Data%20Structures%20in%20Python%20Practice%20set%20answers)
 
 ## 7️⃣ Object-Oriented Programming in Python
 
@@ -215,11 +197,11 @@ Object-Oriented Programming concepts.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open OOP Notebook](./07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb)
+👉 [Open OOP Notebook](http://localhost:8888/notebooks/Python/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open OOP Practice Set](./07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/OOP%20Practice%20set%20Answers/)
+👉 [Open OOP Practice Set](http://localhost:8888/tree/Python/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/OOP%20Practice%20set%20Answers)
 
 ## 8️⃣ Advanced Python Concepts
 
@@ -238,11 +220,11 @@ in Python.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Advanced Python Notebook](./08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb)
+👉 [Open Advanced Python Notebook](http://localhost:8888/notebooks/Python/08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Advanced Python Practice Set](./08.%20Advanced%20Python%20Concepts/Advanced%20Python%20Concepts%20Practice%20Set%20Answers/)
+👉 [Open Advanced Python Practice Set](http://localhost:8888/tree/Python/08.%20Advanced%20Python%20Concepts/Advanced%20Python%20Concepts%20Practice%20Set%20Answers)
 
 ## 9️⃣ File I/O - Working with Files & Related Modules
 
@@ -261,11 +243,11 @@ Learn how Python can create, read, write, and manipulate files.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open File I/O Notebook](./09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/09.File%20IO%20-%20Working%20with%20Files%20%26%20Related%20Modules%20.ipynb)
+👉 [Open File I/O Notebook](http://localhost:8888/notebooks/Python/09.%20File%20IO%20-%20Working%20with%20files%20&%20Related%20Modules/09.File%20IO%20-%20Working%20with%20Files%20&%20Related%20Modules%20.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open File I/O Practice Set](./09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/File%20IO%20%20-%20Working%20with%20Files%20%26%20Related%20Modules%20Practice%20Set%20answers/)
+👉 [Open File I/O Practice Set](http://localhost:8888/tree/Python/09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/File%20IO%20%20-%20Working%20with%20Files%20%26%20Related%20Modules%20Practice%20Set%20answers)
 
 ## 🔟 Working with External Libraries
 
@@ -283,7 +265,7 @@ libraries and packages.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open External Libraries Notebook](./10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb)
+👉 [Open External Libraries Notebook](http://localhost:8888/notebooks/Python/10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb)
 
 # 🛠️ Tools & Technologies
 
@@ -293,6 +275,7 @@ libraries and packages.
 - 🔧 Git
 - 🌐 GitHub
 - 📦 pip
+
 
 # 🎯 Learning Outcomes
 
@@ -309,61 +292,34 @@ Through this course, I have practiced and learned:
 - ✅ External Python Libraries
 - ✅ Problem Solving using Python
 
+
 # 🧠 Learning Approach
 
-```text
 📖 Learn the Concept
-        ↓
+        |
 💻 Write the Code
-        ↓
+        |
 🧩 Solve Problems
-        ↓
+        |
 🔍 Review the Solution
-        ↓
+        |
 🚀 Improve Python Skills
 
 
----
 
-# Step 19 — Add a Final Section
+# Final Section
 
-```markdown
 # ⭐ Repository Goal
 
 The goal of this repository is to maintain my complete Python
 learning journey and provide a structured reference for learning
 Python through theory, hands-on coding, and problem solving.
 
----
 
-<p align="center">
-  🐍 <b>Learn Python • Practice Coding • Solve Problems • Keep Growing 🚀</b>
-</p>
 
-README.md
-│
-├── 🐍 Python Programming Course
-│
-├── 📖 About This Repository
-│
-├── 🗺️ Python Learning Roadmap
-│
-├── 📚 Course Contents
-│
-├── 📖 Course Modules
-│   ├── 1️⃣ Introduction to Programming Python
-│   ├── 2️⃣ Python Fundamentals
-│   ├── 3️⃣ Control Flow and Loops
-│   ├── 4️⃣ Strings
-│   ├── 5️⃣ Functions and Modules
-│   ├── 6️⃣ Data Structures
-│   ├── 7️⃣ OOP
-│   ├── 8️⃣ Advanced Python
-│   ├── 9️⃣ File I/O
-│   └── 🔟 External Libraries
-│
-├── 🛠️ Tools & Technologies
-├── 🎯 Learning Outcomes
-├── 🧠 Learning Approach
-└── ⭐ Repository Goal
 
+Learn Python • Practice Coding • Solve Problems • Keep Growing 
+
+
+
+      
