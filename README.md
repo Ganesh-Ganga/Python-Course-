@@ -54,7 +54,7 @@ Python programming language.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Introduction to Programming Python Notebook](http://localhost:8888/notebooks/Python/01.%20Introduction%20to%20programming%20Python/001.%20Introduction%20to%20Programming%20python.ipynb)
+👉 [Open Introduction to Programming Python Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/01.%20Introduction%20to%20programming%20Python/001.%20Introduction%20to%20Programming%20python.ipynb)
 
 
 ## 2️⃣ Python Fundamentals
@@ -73,11 +73,11 @@ This module covers the fundamental building blocks of Python programming.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Python Fundamentals Notebook](http://localhost:8888/notebooks/Python/02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb)
+👉 [Open Python Fundamentals Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/02.%20Python%20Fundamentals/02.%20Python%20Fundamentals.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Python Fundamentals Practice Set Answers ](http://localhost:8888/tree/Python/02.%20Python%20Fundamentals/Python%20Fundamentals%20Practice%20Set%20answers)
+👉 [Open Python Fundamentals Practice Set Answers ](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/02.%20Python%20Fundamentals/Python%20Fundamentals%20Practice%20Set%20answers)
 
 ## 3️⃣ Control Flow and Loops
 
@@ -97,11 +97,11 @@ Learn how to control the flow of execution in Python programs.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Control Flow and Loops Notebook](http://localhost:8888/notebooks/Python/03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb)
+👉 [Open Control Flow and Loops Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/03.%20Control%20Flow%20and%20Loops/03.Control%20Flow%20and%20Loops.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Control Flow and Loops Practice Set](http://localhost:8888/tree/Python/03.%20Control%20Flow%20and%20Loops/Control%20Flow%20and%20Loops%20Practice%20set%20answers)
+👉 [Open Control Flow and Loops Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/03.%20Control%20Flow%20and%20Loops/Control%20Flow%20and%20Loops%20Practice%20set%20answers)
 
 
 ## 4️⃣ Strings
@@ -121,11 +121,11 @@ different string operations in Python.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Strings Notebook](http://localhost:8888/notebooks/Python/04.%20Strings/04.%20Strings.ipynb)
+👉 [Open Strings Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/04.%20Strings/04.%20Strings.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Strings Practice Set](http://localhost:8888/tree/Python/04.%20Strings/Strings%20Practice%20Set%20answers)
+👉 [Open Strings Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/04.%20Strings/Strings%20Practice%20Set%20answers)
 
 ## 5️⃣ Functions and Modules
 
@@ -146,11 +146,11 @@ using functions and modules.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Functions and Modules Notebook](http://localhost:8888/notebooks/Python/05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb)
+👉 [Open Functions and Modules Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/05.%20Functions%20and%20Modules/05.%20Functions%20and%20Modules.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Functions and Modules Practice Set](http://localhost:8888/tree/Python/05.%20Functions%20and%20Modules/Functions%20and%20Modules%20Practice%20set%20Answers)
+👉 [Open Functions and Modules Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/05.%20Functions%20and%20Modules/Functions%20and%20Modules%20Practice%20set%20Answers)
 
 ## 6️⃣ Data Structures in Python
 
@@ -170,11 +170,11 @@ data using Python's built-in data structures.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Data Structures Notebook](http://localhost:8888/notebooks/Python/06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb)
+👉 [Open Data Structures Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/06.%20Data%20Structures%20in%20Python/06.Data%20Structures%20in%20Python.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Data Structures Practice Set](http://localhost:8888/tree/Python/06.%20Data%20Structures%20in%20Python/Data%20Structures%20in%20Python%20Practice%20set%20answers)
+👉 [Open Data Structures Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/06.%20Data%20Structures%20in%20Python/Data%20Structures%20in%20Python%20Practice%20set%20answers)
 
 ## 7️⃣ Object-Oriented Programming in Python
 
@@ -197,11 +197,11 @@ Object-Oriented Programming concepts.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open OOP Notebook](http://localhost:8888/notebooks/Python/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb)
+👉 [Open OOP Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/07.%20Object-Oriented%20Programming%20(OOP)%20IN%20Python%20.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open OOP Practice Set](http://localhost:8888/tree/Python/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/OOP%20Practice%20set%20Answers)
+👉 [Open OOP Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/07.%20Object-Oriented%20Programming%20(OOP)%20In%20Python/OOP%20Practice%20set%20Answers)
 
 ## 8️⃣ Advanced Python Concepts
 
@@ -220,11 +220,11 @@ in Python.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open Advanced Python Notebook](http://localhost:8888/notebooks/Python/08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb)
+👉 [Open Advanced Python Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/08.%20Advanced%20Python%20Concepts/08.%20Advanced%20Python%20Concepts%20.ipynb)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open Advanced Python Practice Set](http://localhost:8888/tree/Python/08.%20Advanced%20Python%20Concepts/Advanced%20Python%20Concepts%20Practice%20Set%20Answers)
+👉 [Open Advanced Python Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/08.%20Advanced%20Python%20Concepts/Advanced%20Python%20Concepts%20Practice%20Set%20Answers)
 
 ## 9️⃣ File I/O - Working with Files & Related Modules
 
@@ -243,11 +243,11 @@ Learn how Python can create, read, write, and manipulate files.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open File I/O Notebook](http://localhost:8888/notebooks/Python/09.%20File%20IO%20-%20Working%20with%20files%20&%20Related%20Modules/09.File%20IO%20-%20Working%20with%20Files%20&%20Related%20Modules%20.ipynb)
+👉 [Open File I/O Notebook](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules)
 
 ### 📝 Practice Set with Answers
 
-👉 [Open File I/O Practice Set](http://localhost:8888/tree/Python/09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/File%20IO%20%20-%20Working%20with%20Files%20%26%20Related%20Modules%20Practice%20Set%20answers)
+👉 [Open File I/O Practice Set](https://github.com/Ganesh-Ganga/Python-Course-/tree/main/09.%20File%20IO%20-%20Working%20with%20files%20%26%20Related%20Modules/File%20IO%20%20-%20Working%20with%20Files%20%26%20Related%20Modules%20Practice%20Set%20answers)
 
 ## 🔟 Working with External Libraries
 
@@ -265,7 +265,7 @@ libraries and packages.
 
 ### 📚 Theory & 💻 Practice
 
-👉 [Open External Libraries Notebook](http://localhost:8888/notebooks/Python/10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb)
+👉 [Open External Libraries Notebook](https://github.com/Ganesh-Ganga/Python-Course-/blob/main/10.%20Working%20with%20External%20Libraries/10.%20Working%20with%20External%20Libraries%20%20.ipynb)
 
 # 🛠️ Tools & Technologies
 
